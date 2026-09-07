@@ -300,6 +300,4 @@ Seasonal-Agriculture-Performance-Analysis/
 ├── seasonal_agriculture_performance_dataset.csv
 │
 ├── README.md
-    ├── irrigation_analysis.png
-    ├── correlation_heatmap.png
-    └── regional_profitability.png
+    
